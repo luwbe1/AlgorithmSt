@@ -3,7 +3,7 @@ input = sys.stdin.readline
  
 n = int(input()) # 막대 입력
 sticks = [int(input()) for i in range(n)] # for문
-max = sticks[-1] #최대 높이, 스택의 맨 
+max = sticks[-1] #최대 높이, 스택의 맨 오른쪽
 count = 1
  
 for i in range(n): #for문 시작
