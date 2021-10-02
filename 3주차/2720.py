@@ -2,6 +2,7 @@ import sys
 
 T=int(sys.stdin.readline()) # T 입력
 
+# 쿼터, 다임, 니켈, 페니
 for _ in range(T): 
     money = int(sys.stdin.readline()) # 돈 
     a = money // 25 # 25
