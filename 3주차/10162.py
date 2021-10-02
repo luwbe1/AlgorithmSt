@@ -1,4 +1,4 @@
-T = int(input()) # T 입력 받기
+T = int(input()) # 요리시간 T 입력 받기
 A=0 # 모두 다 0
 B=0
 C=0
